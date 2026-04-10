@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "reclamoslimp",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "d51f6d98-202b-43fc-89c1-2cdd86b4f688",
+			"database_name": "emibot-test"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
